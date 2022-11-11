@@ -7,9 +7,6 @@ Dark Green:#386c00
 */
 /* You can add global styles to this file, and also import other style files */
 /* Application-wide Styles */
-title {
-  color: #d84060;
-}
 h1 {
     color: #4060f8;
     font-family: Arial, Helvetica, sans-serif;
@@ -18,14 +15,19 @@ h1 {
   h2, h3 {
     color: #48a810;
     font-family: Arial, Helvetica, sans-serif;
-
+    font-weight: lighter;
   }
   h2 {
+    color: #48a810;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
     font-size: 200%;
   }
-  h3 {
-    font-size: 150%;
+  h2 {
+    color: #48a810;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
+    font-size: 200%;
   }
   body {
     margin: 2em;
@@ -55,12 +57,9 @@ h1 {
     color: #aaa;
     cursor: auto;
   }
-  a {
-    color: #d84060;
-  }
   
   /* everywhere else */
   * {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(228, 242, 255);
+    background-color: rgb(224, 240, 255);
   }

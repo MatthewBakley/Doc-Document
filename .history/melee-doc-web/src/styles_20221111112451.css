@@ -11,7 +11,7 @@ title {
   color: #d84060;
 }
 h1 {
-    color: #4060f8;
+    color: #d84060;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 250%;
   }
@@ -54,9 +54,6 @@ h1 {
     background-color: #eee;
     color: #aaa;
     cursor: auto;
-  }
-  a {
-    color: #d84060;
   }
   
   /* everywhere else */

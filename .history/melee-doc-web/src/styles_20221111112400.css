@@ -7,11 +7,8 @@ Dark Green:#386c00
 */
 /* You can add global styles to this file, and also import other style files */
 /* Application-wide Styles */
-title {
-  color: #d84060;
-}
 h1 {
-    color: #4060f8;
+    color: #e8d020;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 250%;
   }
@@ -54,9 +51,6 @@ h1 {
     background-color: #eee;
     color: #aaa;
     cursor: auto;
-  }
-  a {
-    color: #d84060;
   }
   
   /* everywhere else */
